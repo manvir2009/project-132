@@ -2,7 +2,7 @@ Status = "";
 fan_image = "";
 
 function preload(){
-    fan_image = loadImage("Fan.png");
+    fan_image = loadImage("fan.png");
 }
 
 function setup(){
